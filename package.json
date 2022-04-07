@@ -1,0 +1,8 @@
+{
+  "name": "src",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^4.5.0",
+    "mongodb-memory-server": "^8.4.2"
+  }
+}
